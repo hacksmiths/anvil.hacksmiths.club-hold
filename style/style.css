@@ -115,6 +115,18 @@ a {
   margin-top: 2em;
 }
 
+.supporters {
+  display: block;
+  margin-top: 1.5em;
+  overflow: auto;
+}
+
+.supporters img {
+  width: 25%;
+  float: left;
+  display: block;
+}
+
 footer {
   margin-bottom: 2em;
   text-align: center;
